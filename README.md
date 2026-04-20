@@ -1,12 +1,13 @@
 # 🧪 MathLab: Interactive Geometry & Vector Engine
 
 **MathLab** is a modern, high-performance virtual laboratory designed to visualize complex mathematical concepts. By leveraging WebGL and modern web technologies, it transforms abstract theories like 3D rotations, vector operations, and negative integers into a tangible, interactive experience.
-<p align="center">
+<div align="center">
   <a href="https://mathlab.aminmadani.xyz">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-EXPLORE_NOW-6b21a8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-ENTER_LAB-6b21a8?style=for-the-badge&logo=target&logoColor=white" />
   </a>
-</p>
-----
+</div>
+
+---
 
 ## 📸 Project Gallery
 
