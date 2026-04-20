@@ -71,17 +71,35 @@ This project is in active development. My vision for the future of MathLab inclu
 
 ## 🔧 Installation & Usage
 
-To run MathLab locally, simply clone the repository and open `index.html` in any modern web browser:
+Since **MathLab** utilizes PHP for server-side logic, it requires a local server environment to function correctly. Follow these steps to get started:
+
+### 1. Prerequisites
+You need a local server environment that supports PHP. Recommended tools:
+* **Windows:** [XAMPP](https://www.apachefriends.org/) or [Laragon](https://laragon.org/)
+* **macOS:** [MAMP](https://www.mamp.info/)
+* **Linux:** Apache/Nginx with PHP installed
+
+### 2. Clone the Repository
+Navigate to your server's web root directory (e.g., `C:/xampp/htdocs` on Windows or `/var/www/html` on Linux) and run:
 
 ```bash
 # Clone the repository
-git clone https://github.com/aminmadaniofficial/MathLab.git
+git clone [https://github.com/aminmadaniofficial/MathLab.git](https://github.com/aminmadaniofficial/MathLab.git)
 
-# Navigate to the project directory
+# Enter the project directory
 cd MathLab
+```
 
-# Open index.html in your favorite browser!
-````
+### 3. Running the Project
+1.  Start the **Apache** server from your XAMPP/Laragon control panel.
+2.  Open your browser and navigate to:
+    ```
+    http://localhost/MathLab/
+    ```
+3.  Ensure the entry file is `index.php`.
+
+> **Tip:** If you have PHP installed globally, you can quickly preview the project by running `php -S localhost:8000` inside the project folder and visiting `http://localhost:8000` in your browser.
+
 
 -----
 
