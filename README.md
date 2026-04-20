@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LIVE_DEMO-EXPLORE_NOW-6b21a8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
   </a>
 </p>
----
+----
 
 ## 📸 Project Gallery
 
