@@ -89,7 +89,7 @@ Navigate to your server's web root directory (e.g., `C:/xampp/htdocs` on Windows
 
 ```bash
 # Clone the repository
-git clone [https://github.com/aminmadaniofficial/MathLab.git](https://github.com/aminmadaniofficial/MathLab.git)
+git clone https://github.com/aminmadaniofficial/MathLab.git
 
 # Enter the project directory
 cd MathLab
