@@ -75,7 +75,7 @@ To run MathLab locally, simply clone the repository and open `index.html` in any
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YourUsername/MathLab.git](https://github.com/aminmadaniofficial/MathLab.git)
+git clone https://github.com/aminmadaniofficial/MathLab.git
 
 # Navigate to the project directory
 cd MathLab
