@@ -25,7 +25,7 @@
 *Exploring advanced geometry by rotating offset circles to generate 3D Toroids (donuts) with neon trails.*
 
 ### 5. Vector Operations & Financial Lab
-![Vector Lab](./screenshots/vector-lab.png)
+![Vector Lab](./screenshots/vector-lab.gif)
 *Interactive number lines and drag-and-drop financial simulations to master integer mathematics.*
 
 ---
