@@ -1,3 +1,6 @@
 # Force all .php files to be detected as PHP, not Hack
 *.php linguist-language=php
 **/*.php linguist-language=php
+
+# Ignore js library files
+js/* linguist-vendored
